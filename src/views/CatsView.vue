@@ -1,0 +1,5 @@
+<template>
+    <div>
+        <h1>CATS</h1>
+    </div>
+</template>
