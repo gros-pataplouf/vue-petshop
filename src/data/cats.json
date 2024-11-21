@@ -1,0 +1,21 @@
+[{
+    "name": "Meowsers",
+    "breed": "Tabby",
+    "gender": "female",
+    "age": 7,
+    "color": "brown",
+    "weight": 5,
+    "location": "Manila",
+    "notes": "Very shy"
+  },
+  {
+    "name": "Meetsy",
+    "breed": "calico",
+    "gender": "unknown",
+    "age": 2,
+    "color": "calico",
+    "weight": 5,
+    "location": "Paris",
+    "notes": "Très caline"
+  }
+]

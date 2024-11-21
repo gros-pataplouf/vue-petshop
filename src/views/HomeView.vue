@@ -1,15 +1,13 @@
 <template>
-  <hello-world />
+    <v-card>
+  <h1>Home</h1>
+</v-card>
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld'
 
 export default {
-  name: 'HomeView',
+  name: 'HomeView'
 
-  components: {
-    HelloWorld
-  }
 }
 </script>
