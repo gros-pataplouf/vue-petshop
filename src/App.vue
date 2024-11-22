@@ -2,9 +2,9 @@
   <v-app id="app">
     <header>
     <v-app-bar tag="nav" class="navbar">
-      <router-link to="/"><v-btn active-color="white" text>Home</v-btn></router-link>
-      <router-link to="/cats"><v-btn text>Cats</v-btn></router-link>
-      <router-link to="/dogs"><v-btn text>Dogs</v-btn></router-link>
+      <router-link :to="`/`"><v-btn active-color="white" text>Home</v-btn></router-link>
+      <router-link :to="`/cats`"><v-btn text>Cats</v-btn></router-link>
+      <router-link :to="`/dogs`"><v-btn text>Dogs</v-btn></router-link>
     </v-app-bar>
   </header>
   <v-container grid-list-xs>

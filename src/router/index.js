@@ -28,11 +28,10 @@ const routes = [
     component: DogsView
   },
   {
-    path: '/pet/:id',
-    name: 'pet',
+    path: '/pets/:id',
+    name: 'pets',
     component: PetView
   }
-
 ]
 
 const router = new VueRouter({
